@@ -5,6 +5,8 @@
 ## Usage
 
 ```bash
+git clone https://github.com/ShaoNianyr/goc-docker
+cd goc-docker
 docker-compose up -d
 docker-compose logs
 ```
