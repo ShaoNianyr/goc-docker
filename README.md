@@ -2,6 +2,8 @@
 
 基于七牛云 goc cli 工具，使用 docker-compose 的方式编排，多个 app 服务共用一个 goc server。
 
+技术交流 QQ 群: 552643038
+
 ## Usage
 
 ```bash
